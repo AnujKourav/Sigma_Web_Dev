@@ -1,0 +1,11 @@
+difference between html css and javascript
+Html is a skeleton for website
+css add the beauty to the website
+javascript adds the beauty to the website
+
+then difference between client browser and server
+client are the customer
+browser are the waiter
+server is chef in the kitchen 
+
+Vscode installation git setup and vscode extension
